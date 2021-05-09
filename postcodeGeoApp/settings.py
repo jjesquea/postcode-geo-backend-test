@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'postcodeGeoApp.postcode',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
