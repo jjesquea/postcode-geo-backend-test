@@ -1,0 +1,9 @@
+# Environments
+.venv
+venv/
+ENV/
+
+.idea/
+
+*.pyc
+*.env

@@ -1,0 +1,5 @@
+Django==3.1 # https://www.djangoproject.com/
+djangorestframework==3.12.4 # https://www.django-rest-framework.org/
+django-environ==0.4.5 # https://github.com/joke2k/django-environ
+psycopg2-binary>=2.8 # https://www.psycopg.org/
+factory-boy==2.12.0  # https://github.com/FactoryBoy/factory_boy
